@@ -1,10 +1,10 @@
 <?php
 
-$name = "Adam Engebretson";
-$email = "engebrea@otc.edu";
-$movie = "Breakfast at Tiffany's";
-$food = "Brats";
-$technology = "Docker";
+$name = "Joshua Ratliff";
+$email = "jr0850050@otc.edu";
+$movie = "Guardians of the Galaxy";
+$food = "Medium Rare Steak";
+$technology = "literally anything else.";
 
 ?>
 
@@ -18,7 +18,7 @@ $technology = "Docker";
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 </head>
 <body>
-    
+
     <div class="container">
         <h1>Hello PHP!</h1>
         <p class="lead">My name is <?= $name ?> and I'm going to learn you like there's no tomorrow!</p>
